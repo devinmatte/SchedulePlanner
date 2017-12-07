@@ -1,0 +1,19 @@
+{
+  "name": "devinmatte/schedule-planner",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Devin Matte",
+      "email": "devinmatte@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "doctrine/annotations": "1.4.0",
+    "doctrine/orm": "2.5.6",
+    "doctrine/migrations": "1.5"
+  },
+  "require-dev": {
+    "phpunit/phpunit": ">=4.8 < 6.0"
+  }
+}

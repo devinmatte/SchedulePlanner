@@ -1,5 +1,7 @@
 # SchedulePlanner
 
+This project is for planning out your years at RIT. By using the data already held in the ScheduleMaker DB, I'm going to allow students to create a basic layout of each of their semesters at RIT.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.
 
 ## Development server

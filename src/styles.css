@@ -4,7 +4,7 @@ body {
     /*font-size:12px;*/
     font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 300;
-    background-color: #2C3E50;
+    background-color: #2C503E;
     overflow-y: scroll;
 }
 
@@ -139,7 +139,7 @@ body.print footer.main.print {
 }
 
 body.default #superContainer {
-    background-color: #2B4E69;
+    background-color: #2B6946;
     padding-top: 40px;
 }
 
@@ -151,7 +151,7 @@ body.default #container {
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    background-color: #2B4E69;
+    background-color: #2B6946;
 }
 
 body.print #container {
@@ -161,7 +161,7 @@ body.print #container {
 footer.main.default {
     position: relative;
     padding: 20px 0;
-    background-color: #2C3E50;
+    background-color: #2C503E;
     color: #ccc;
 }
 
@@ -339,8 +339,8 @@ form {
 }
 
 .selected-course {
-    border: 1px solid #2c3e50;
-    background-color: #2c3e50;
+    border: 1px solid #2C503E;
+    background-color: #2C503E;
     color: #fff;
 }
 
@@ -533,7 +533,7 @@ select.ng-invalid {
     text-align: center;
     display: block;
     margin: 0 auto;
-    background-color: #2c3e50;
+    background-color: #2C503E;
     border-radius: 50% 50%;
     height: 70px;
     width: 70px;
